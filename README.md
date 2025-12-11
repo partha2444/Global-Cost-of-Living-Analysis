@@ -1,6 +1,6 @@
 # 🌍 Global Cost of Living & Purchasing Power Analysis
 
-**A Data Analysis Project by [Partha P S]**
+**A Data Analysis Project by Partha P S**
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-green.svg)
